@@ -9,7 +9,7 @@ A professional landing page for a start up company.
 
 ## Preview
 
-![Jun-30-2021 21-43-01](https://user-images.githubusercontent.com/55529532/124065748-3a62e100-d9ec-11eb-9ec7-5d966e3af481.gif)
+![Aug-25-2021 15-35-21](https://user-images.githubusercontent.com/55529532/130873275-3e360a71-03fc-4a60-85c6-56c9095b0161.gif)
 
 ### Getting Started
 
